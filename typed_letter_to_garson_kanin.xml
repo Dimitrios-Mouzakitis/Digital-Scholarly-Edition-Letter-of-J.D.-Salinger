@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Digital Scholarly Edition: J.D. Salinger on Artistic Integrity, A Letter to
+               Garson Kanin (1957) </title>
+            <author>Jerome David Salinger</author>
+            <editor>Dimitrios Chrysovalantis Mouzakitis, Riccardo Contin, 882098, 883467,
+               908084</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Class Assignment</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>New York City, New York, United States of America</settlement>
+                  <repository>Bonhams</repository>
+                  <idno>Lot 196</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title type="original" xml:lang="en">A Letter Jerome David Salinger to Garson
+                        Kanin (1957)</title>
+                     <textLang mainLang="en">American English</textLang>
+                     <argument>
+                        <p>Typed Letter Signed ("J.D. Salinger"), 1 p, 8vo, New York, May 29, 1957,
+                           on New Yorker letterhead, to Garson Kanin, regarding adapting his stories
+                           for the stage; together with typed carbon of Kanin's May 16, 1957 letter
+                           to Salinger; housed together in custom clamshell box, with 1996
+                           bookseller's receipt.</p>
+                     </argument>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <p>Typed Letter</p>
+                  <objectDesc>
+                     <p>The document is a typed letter, signed by J.D. Salinger, dated May 29, 1957,
+                        and written on official New Yorker letterhead. It consists of one page,
+                        measuring 8vo (approximately 8 x 5 inches), a standard size for personal and
+                        business correspondence. The paper likely has a slightly aged appearance,
+                        possibly with minor discoloration or creases due to its age. The letter
+                        features typed text in a traditional typewriter font, with Salinger’s
+                        signature handwritten in ink at the bottom. Given its provenance and
+                        literary significance, the document is preserved in a custom clamshell box,
+                        ensuring protection and archival quality.</p>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>
+                  <forename>Jerome David</forename>
+                  <surname>Salinger</surname>
+                  <idno type="VIAF">17092</idno>
+                  <note>J. D. Salinger (1919–2010) was an American writer best known for The Catcher
+                     in the Rye, a novel that became a defining work of 20th-century literature. His
+                     writing often explored themes of alienation, identity, and the struggles of
+                     adolescence. In addition to his famous novel, he wrote several short stories
+                     and novellas, including Nine Stories, Franny and Zooey, and Raise High the Roof
+                     Beam, Carpenters and Seymour: An Introduction. Despite his literary success,
+                     Salinger became increasingly reclusive, avoiding public attention and
+                     publishing little after the 1960s. His influence remains strong, with his works
+                     continuing to be widely read and analyzed.</note>
+               </persName>
+               <date when="1957-05-29">May 29th 1957</date>
+               <placeName>New York, United States of America</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>
+                  <forename>Garson</forename>
+                  <surname>Kanin</surname>
+                  <idno type="VIAF">111110545</idno>
+                  <note>Garson Kanin (1912–1999) was an American writer, director, and playwright
+                     known for his contributions to theater, film, and literature. He wrote and
+                     directed several Broadway plays and collaborated with his wife, Ruth Gordon, on
+                     classic screenplays such as Adam’s Rib and Pat and Mike. Kanin also authored
+                     novels, memoirs, and non-fiction works, including Tracy and Hepburn, a
+                     biography of Spencer Tracy and Katharine Hepburn. His sharp wit and
+                     storytelling talent made him a significant figure in mid-20th-century American
+                     entertainment.</note>
+               </persName>
+               <placeName>Oxford, New York, United States of America</placeName>
+            </correspAction>
+         </correspDesc>
+         <settingDesc>
+            <listPlace>
+               <place>
+                  <placeName>New York City, New York, United States of America</placeName>
+                  <note>New York City played a significant role in the lives of both J. D. Salinger
+                     and Garson Kanin. As a literary and cultural hub, the city influenced
+                     Salinger’s writing, with its energy and alienation reflected in The Catcher in
+                     the Rye. Kanin, deeply immersed in Broadway and Hollywood, thrived in its
+                     artistic circles, writing and directing for the stage and screen. Both men,
+                     though different in their careers—one a reclusive novelist, the other a vibrant
+                     playwright and filmmaker—left lasting marks on American literature and
+                     entertainment, with New York as a key backdrop to their creative
+                     journeys.</note>
+               </place>
+               <place>
+                  <placeName>Oxford, New York, United States of America</placeName>
+                  <note>Oxford, New York, is a historic town nestled in the heart of Chenango
+                     County, established in 1792. The town played a significant role during the
+                     early development of the region, with its location along important trade routes
+                     contributing to its early growth. It was once a hub for agricultural activity,
+                     particularly for its production of grain, which was transported along the
+                     nearby Chenango Canal.</note>
+               </place>
+            </listPlace>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <watermark>THE NEW YORKER NO.25 WEST 43RD STREET, NEW YORK, 36, N.Y.</watermark>
+               <date>May 29, 1957</date>
+               <address>
+                  <settlement> Oxford, 5-1414</settlement>
+               </address>
+               <salute>
+                  <persName>Dear Mr. Kanin</persName>
+               </salute>
+            </opener>
+            <p>I'm afraid what you've heard is very true—I don't see any of my fictional characters
+               in the theater—but I'm glad you liked ZOOEY, and glad you thought and bothered to
+               write. My stand about the theater isn't a very happy one, considering that there are
+               so many fine people putting on plays—I'm thinking especially of Elia Kazan whom I
+               like very much—but I have an old and unshakable notion that I know what's best for my
+               characters. Thank you, though. Sincerely,</p>
+            <closer>
+               <signed>
+                  <persName>J.D. Salinger</persName>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
